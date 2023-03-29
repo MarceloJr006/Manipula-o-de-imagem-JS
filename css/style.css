@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: white;
+    list-style-type: none;
+    font-size: 20px
+}
+
+body ul{
+    list-style-type: none;
+}
+
+body button{
+    background-color: black;
+    color: white;
+}
